@@ -313,17 +313,17 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+    background: url('http://www.sukaleku.net/blog/wp-content/uploads/2010/12/132-Arbigarak_t-copia.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background: url('http://destinogalaico.files.wordpress.com/2011/08/landra2.jpeg?w=150&h=121');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background: #f2b179; }
+    background: url('http://es.vectoriel.com/vectors/400/2013/07/04/4206-castana.jpg'); }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background: #f59563; }
+    background: url('http://2.bp.blogspot.com/-6iFX5-OG-OM/UvI3aJ1nkPI/AAAAAAAABN8/lphoKINwPkI/s1600/960_filloas-de-sangre-flameadas-con-anis-de-guindas.jpg'); }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: #f67c5f; }
