@@ -122,10 +122,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "Puntuación"; }
+  content: "Puntos"; }
 
 .best-container:after {
-  content: "Mellor puntuación"; }
+  content: "Récord"; }
 
 p {
   margin-top: 0;
